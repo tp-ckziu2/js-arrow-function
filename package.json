@@ -1,0 +1,11 @@
+{
+	"name": "github-classroom-tasks",
+	"version": "1.0.0",
+	"description": "Zadania do wykonania z testami jednostkowymi",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
